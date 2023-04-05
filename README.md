@@ -150,6 +150,12 @@ If you wish to translate the mod, have a suggestion, or should encounter any bug
 
 ## <a name="versions" id="versions"></a>Version History
 
+##### Version 2.1.1 (July 10, 2020)
+
+- Fixed russian language label
+
+## 
+
 ##### Version 2.1.0 (July 10, 2020)
 
 - Fixed a typo in `HANDLE_CHARSETS` function (replaced *infer_charset* with *infer_charset<ins>s</ins>*)
