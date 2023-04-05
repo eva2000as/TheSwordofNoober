@@ -1,6 +1,6 @@
 //////////////////////////////////////
 //  The Sword of Noober             //
-//  Version 2.1.0                   //
+//  Version 2.1.1                   //
 //  Pex657@gmail.com                //
 //  By:Pex657 and Kerintok          //
 //////////////////////////////////////
