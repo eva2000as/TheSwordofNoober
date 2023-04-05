@@ -77,6 +77,9 @@ A: Please send me an e-mail to: Pex657@gmail.com with the Subject line: The Swor
 //  6. Versions History  //
 ///////////////////////////
 
+Version 2.1.1 (April 05, 2023)
+- Fixed russian language label
+
 Version 2.1.0 (July 10, 2020)
 - Fixed a typo in `HANDLE_CHARSETS` function (replaced *infer_charset* with "infer_charsets")
 - Added Russian translation (by MacksimSl).
