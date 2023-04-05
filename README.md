@@ -150,7 +150,7 @@ If you wish to translate the mod, have a suggestion, or should encounter any bug
 
 ## <a name="versions" id="versions"></a>Version History
 
-##### Version 2.1.1 (July 10, 2020)
+##### Version 2.1.1 (April 05, 2023)
 
 - Fixed russian language label
 
